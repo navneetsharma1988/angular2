@@ -1,2 +1,7 @@
 # angular2
-Contains angular2 starter kit and sample applications
+This is a angular2 starter kit
+
+run npm install to install requisite dependencies
+
+npm start to launch the application
+
