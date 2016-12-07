@@ -40,3 +40,7 @@ typings
 # Editor files
 .idea
 .project
+
+# Compiled files
+app/*.js
+app/*.map
